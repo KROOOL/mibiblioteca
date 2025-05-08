@@ -1,0 +1,7 @@
+src\com\kroool\modelo\Libro.java
+src\com\kroool\abstracta\Usuario.java
+src\com\kroool\modelo\Profesor.java
+src\com\kroool\modelo\Estudiante.java
+src\com\kroool\modelo\Prestamo.java
+src\com\kroool\principal\Biblioteca.java
+src\com\kroool\principal\ControlBiblioteca.java
